@@ -1,1 +1,14 @@
 
+gpxpy
+
+requests
+
+lxml
+
+shapely
+
+geopy
+
+pyyaml
+
+simplekml
